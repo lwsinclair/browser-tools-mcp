@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/agentdeskai-browser-tools-mcp-badge.png)](https://mseep.ai/app/agentdeskai-browser-tools-mcp)
+
 # BrowserTools MCP
 
 > Make your AI tools 10x more aware and capable of interacting with your browser
